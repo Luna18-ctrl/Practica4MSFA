@@ -3,7 +3,7 @@
 # Práctica: Sistema cardiovascular
 
 ## Información del estudiante
-Frausto Luna Carlos Daniel [C18210366]; carlos.frausto18@tectijuana.edu.mx
+Frausto Luna Carlos Daniel [C18210366]; LC18210366@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
